@@ -1,4 +1,4 @@
-0Welcome to LaunchCode's TechJobs App!
+Welcome to LaunchCode's TechJobs App!
 
 View jobs by (type 'x' to quit):
 0 - Search
