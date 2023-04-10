@@ -41,7 +41,6 @@ public class TechJobsTest {
     public void testPrintJobs() throws IOException {
         String input = "0\n2\nBuzzbold\nx";
         String output = runProgramWithInput(input);
-        System.out.println(output);
         String expected = getFileContents("src/test/resources/testPrintJobs.txt");
         assertEquals(expected, output);
     }
